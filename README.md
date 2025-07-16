@@ -32,7 +32,7 @@ The company is facing inconsistent sales and profit performance across different
 ## 📊 Dashboard Preview
 
 ### 🔹 Supply Chain Management Analysis Dashboard
-![Supply Chain Management Dashboard](./SCM_Dashboard Image.png)
+![Supply Chain Management Dashboard](./SCM_Dashboard_Image.png)
 
 ---
 
