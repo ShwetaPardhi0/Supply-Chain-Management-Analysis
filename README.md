@@ -29,6 +29,13 @@ The company is facing inconsistent sales and profit performance across different
 
 ---
 
+## 📊 Dashboard Preview
+
+### 🔹  Supply-Chain-Management-Analysis Dashboard 
+![ Supply-Chain-Management Dashboard ](./SCM_Dashboard Image.png)
+
+---
+
 ## ✅ Recommendations
 
 - Expand successful stores and replicate strategies from 2009–2017
