@@ -15,7 +15,7 @@ The company is facing inconsistent sales and profit performance across different
 ## 🧰 Tool Used
 
 - **Power BI** – For data visualization, interactive exploration, and business insights
-
+- **Excel** - for data cleaning
 ---
 
 ## 📊 Key Insights
